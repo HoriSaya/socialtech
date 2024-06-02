@@ -29,17 +29,17 @@ header{
     text-decoration: none;
     margin-left: 20px;
 }
-#nav-pc >a:link{
+#nav-pc > a:link{
     color: #0d0d0d;
 }
-#nav-pc >a:visited{
+#nav-pc > a:visited{
     color: #0d0d0d;
 }
-#nav-pc >a:hover{
+#nav-pc > a:hover{
     color: #0d0d0d;
     text-decoration: underline;
 }
-#nav-pc >a:active{
+#nav-pc > a:active{
     color: #0d0d0d;
 }
 
